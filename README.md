@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JasonBDev
 - 👀 I’m interested in Web Development
-- 🌱 I’m usually use Next.JS, Vue.JS, or ExpressJS
+- 🌱 I usually use Next.JS, React.JS, and ExpressJS with a sprinkle of firebase or auth0.
 - 📫 Best way to reach me is by email: jasongreb01@gmail.com

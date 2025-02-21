@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development
 - 🌱 I usually use Next.JS, React.JS, and ExpressJS with a sprinkle of firebase or auth0.
 - 📫 Best way to reach me is by email: jasongreb01@gmail.com
-- Computer science senior at University of South Florida
+- Bachelor's in Computer science from the University of South Florida
